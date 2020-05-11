@@ -1,0 +1,13 @@
+@font-face{
+    font-family: 'Robot World';
+    font-weight: normal;
+    font-style: normal;
+    src : local('Robot World'),url('Robot World.otf') format('.otf')
+}
+
+h1{
+ font-family: 'Robot World';
+ font-weight: 5000;
+ font-size:60px;
+ color: white;
+}
